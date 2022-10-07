@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Custom Card"),
+        title: const Text("Custom Text"),
       ),
       body: Container(
         child: Column(
