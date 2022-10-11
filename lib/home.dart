@@ -75,6 +75,13 @@ class Home extends StatelessWidget {
                     size: 20,
                     wordSpacing: 2,
                   ),
+                  Text(
+                    "data",
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontFamily: 'Raleway',
+                    ),
+                  )
                 ],
               ),
             )
